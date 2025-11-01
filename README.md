@@ -1,3 +1,3 @@
-HTML Concepts\
+# HTML
 <br>
-https://github.com/gupta-gautam/HTML HTML
+HTML concepts[HTML](https://github.com/gupta-gautam/HTML)
